@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio  
 
 A minimal and responsive personal portfolio built with **SolidJS**, styled using **Tailwind CSS**, and enhanced with smooth animations via **Motion One**.
 
